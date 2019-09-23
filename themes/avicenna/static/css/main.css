@@ -12,7 +12,7 @@ body {
 
 a,
 a:hover {
-  color: #a00;
+  color: #1331d8;
   text-decoration: none;
 }
 
@@ -67,7 +67,7 @@ blockquote {
   font-size: 1.4rem;
   font-family: Georgia, bitstream charter, serif;
   border-left: 3px solid;
-  border-color: #a00;
+  border-color: #1331d8;
   padding-left: 20px;
 }
 
@@ -81,7 +81,7 @@ span {
 
 a,
 a:hover {
-  color: #a00;
+  color: #1331d8;
   text-decoration: none;
 }
 
@@ -215,6 +215,10 @@ ul {
   line-height: 1.3em;
 }
 
+.header h1{
+  text-align:center;
+}
+
 .header h2 {
   font-size: 1.125rem;
 }
@@ -248,7 +252,7 @@ ul {
 }
 
 .header .site-affilation .email {
-  /* color: #a00; */
+  /* color: #1331d8; */
   font-size: 14px;
   display: block;
   font-family: "Ubuntu Mono";
@@ -256,11 +260,15 @@ ul {
 }
 
 .header .site-affilation .position {
-  /* color: #a00; */
+  /* color: #1331d8; */
   /* font-size: 14px; */
   /* display: block; */
   font-family: Ubuntu;
   /* font-weight: bolder; */
+}
+
+.header .site-affilation h2{
+  text-align:center;
 }
 
 .header .site-affilation nav {
@@ -303,7 +311,7 @@ ul {
 }
 
 .email {
-  /* color: #a00; */
+  /* color: #1331d8; */
   font-size: 16px;
   font-family: "Ubuntu Mono";
   font-weight: bolder;

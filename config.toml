@@ -2,3 +2,15 @@ baseURL = "https://www.kdwolski.com/"
 languageCode = "en-us"
 title = "Kevin D. Wolski"
 theme = "avicenna"
+googleAnalytics = "UA-3105369-1"
+timeout=3000
+[params]
+  subtitle= "Marketing Technology &amp; Web Development"
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/kdwolski"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/kdwolski/"
